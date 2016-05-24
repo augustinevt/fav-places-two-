@@ -1,0 +1,20 @@
+h1 {
+  color: #013140;
+  text-align: center;
+  font-family: cursive;
+}
+
+ul {
+  color: #013140;
+  text-align: left;
+  list-style-type: none;
+  text-decoration: none;
+  font-style: oblique;
+}
+
+img {
+  border: solid 50px;
+  border-radius: 50px;
+  border-color: #013140;
+  width: 200px;
+}
